@@ -6,4 +6,4 @@ Using:
 -Generics
 -Repository Pattern
 -Entity Framework .Net Core
--Lmabda expressions with Entity Framework
+-Lambda expressions with Entity Framework
